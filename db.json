@@ -1,0 +1,11 @@
+
+{
+  "data": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "db_name": "Event_Management",
+    "password": "Karthik@2020",
+    "db_user": "root"
+
+  }
+}
